@@ -2,6 +2,7 @@ package project.service;
 
 
 import project.entity.DTO.ImportForecastDTO;
+import project.entity.Forecast;
 
 import java.io.IOException;
 
@@ -15,4 +16,9 @@ public interface ForecastService {
     String importForecast(ImportForecastDTO importForecastDTO);
 
     String findForecastByCity(String city);
+
+    void addForecastRest(ImportForecastDTO importForecastDTO);
+
+    void findAndRemoveForecastById(Long id);
+
 }

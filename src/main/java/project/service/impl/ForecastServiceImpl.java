@@ -12,6 +12,7 @@ import project.service.ForecastService;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.util.Arrays;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import static project.constans.Paths.JSON_FORECAST;
@@ -46,10 +47,13 @@ public class ForecastServiceImpl implements ForecastService {
 
     @Override
     public String importForecasts() throws IOException {
-        String json = this.readForecastsFromFile();
-        ImportForecastDTO[] importForecastDTOS = this.gson.fromJson(json, ImportForecastDTO[].class);
-        return Arrays.stream(importForecastDTOS).map(this::importForecast).collect(Collectors.joining("\n"
-        ));
+        if (this.forecastRepository.count() == 0) {
+            String json = this.readForecastsFromFile();
+            ImportForecastDTO[] importForecastDTOS = this.gson.fromJson(json, ImportForecastDTO[].class);
+            return Arrays.stream(importForecastDTOS).map(this::importForecast).collect(Collectors.joining("\n"
+            ));
+        }
+        return "Import is not needed";
     }
 
     @Override
@@ -63,5 +67,16 @@ public class ForecastServiceImpl implements ForecastService {
     public String findForecastByCity(String city) {
         Forecast forecastsByCity = this.forecastRepository.getForecastsByCity(city);
         return gson.toJson(forecastsByCity);
+    }
+
+    @Override
+    public void addForecastRest(ImportForecastDTO importForecastDTO) {
+        Forecast forecast = this.modelMapper.map(importForecastDTO, Forecast.class);
+        this.forecastRepository.save(forecast);
+    }
+
+    @Override
+    public void findAndRemoveForecastById(Long id) {
+        this.forecastRepository.deleteById(id);
     }
 }
