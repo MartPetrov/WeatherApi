@@ -21,8 +21,8 @@ dependencies {
 	implementation 'jakarta.validation:jakarta.validation-api'
 	runtimeOnly 'mysql:mysql-connector-java:8.0.28'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	annotationProcessor 'org.projectlombok:lombok'
 	compileOnly 'org.projectlombok:lombok'
-	compileOnly 'org.projectlombok:lombok:1.18.30'
 }
 
 tasks.named('test') {

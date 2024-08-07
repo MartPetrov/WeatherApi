@@ -1,4 +1,4 @@
-package project.init.init;
+package project.init;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;

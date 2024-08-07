@@ -12,10 +12,10 @@ import java.util.Date;
 
 @Entity
 @Table(name = "forecasts")
-@Getter
-@Setter
 @NoArgsConstructor
 @AllArgsConstructor
+@Getter
+@Setter
 public class Forecast {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -34,7 +34,7 @@ public class Forecast {
 
     @NotNull
     @Column(name = "date", nullable = false)
-    private Date date;
+    private String date;
 
     @Override
     public String toString() {
@@ -44,6 +44,5 @@ public class Forecast {
                 this.minTemperature,
                 this.maxTemperature);
     }
-
 
 }
