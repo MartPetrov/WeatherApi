@@ -12,6 +12,7 @@ import project.service.ForecastService;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
@@ -64,8 +65,8 @@ public class ForecastServiceImpl implements ForecastService {
     }
 
     @Override
-    public String findForecastByCity(String city) {
-        Forecast forecastsByCity = this.forecastRepository.getForecastsByCity(city);
+    public String findForecastByCity(String city, Date date) {
+        Forecast forecastsByCity = this.forecastRepository.getForecastsByCityAndDate(city, date);
         return gson.toJson(forecastsByCity);
     }
 

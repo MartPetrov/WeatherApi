@@ -2,1135 +2,325 @@
   {
     "maxTemperature": 25,
     "minTemperature": -5,
-    "sunrise": "06:12:09",
-    "sunset": "21:19:52",
-    "city": "Sofia"
+    "city": "Sofia",
+    "date": "2023-04-16"
   },
   {
     "maxTemperature": 13,
     "minTemperature": -7,
-    "sunrise": "06:13:43",
-    "sunset": "20:54:21",
-    "city": "Pazardzhik"
+    "city": "Pazardzhik",
+    "date": "2021-11-02"
   },
   {
     "maxTemperature": 25,
     "minTemperature": -6,
-    "sunrise": "05:52:15",
-    "sunset": "21:48:45",
-    "city": "Plovdiv"
+    "city": "Plovdiv",
+    "date": "2022-06-30"
   },
   {
     "maxTemperature": 15,
     "minTemperature": -10,
-    "sunrise": "05:44:49",
-    "sunset": "21:21:21",
-    "city": "Stara Zagora"
+    "city": "Stara Zagora",
+    "date": "2024-03-19"
   },
   {
     "maxTemperature": 28,
     "minTemperature": 0,
-    "sunrise": "07:13:22",
-    "sunset": "22:19:32",
-    "city": "Yambol"
+    "city": "Yambol",
+    "date": "2020-08-25"
   },
   {
     "maxTemperature": 9,
     "minTemperature": 0,
-    "sunrise": "06:34:01",
-    "sunset": "21:51:44",
-    "city": "Burgas"
+    "city": "Burgas",
+    "date": "2022-12-14"
   },
   {
     "maxTemperature": 36,
     "minTemperature": -4,
-    "sunrise": "06:39:00",
-    "sunset": "22:06:58",
-    "city": "Botevgrad"
+    "city": "Botevgrad",
+    "date": "2024-05-07"
   },
   {
     "maxTemperature": 16,
     "minTemperature": -2,
-    "sunrise": "06:12:30",
-    "sunset": "21:07:43",
-    "city": "Pleven"
+    "city": "Pleven",
+    "date": "2020-09-18"
   },
   {
     "maxTemperature": 12,
     "minTemperature": 4,
-    "sunrise": "05:25:01",
-    "sunset": "22:14:09",
-    "city": "Veliko Tarnovo"
+    "city": "Veliko Tarnovo",
+    "date": "2023-11-05"
   },
   {
     "maxTemperature": 26,
     "minTemperature": -1,
-    "sunrise": "05:45:50",
-    "sunset": "22:27:29",
-    "city": "Shumen"
+    "city": "Shumen",
+    "date": "2021-01-23"
   },
   {
     "maxTemperature": 20,
     "minTemperature": 4,
-    "sunrise": "05:55:31",
-    "sunset": "20:27:37",
-    "city": "Pernik"
+    "city": "Pernik",
+    "date": "2022-10-14"
   },
   {
     "maxTemperature": 25,
     "minTemperature": -3,
-    "sunrise": "06:55:00",
-    "sunset": "21:38:43",
-    "city": "Dupnitsa"
+    "city": "Dupnitsa",
+    "date": "2023-08-19"
   },
   {
     "maxTemperature": 30,
     "minTemperature": -8,
-    "sunrise": "05:57:08",
-    "sunset": "22:26:39",
-    "city": "Blagoevgrad"
+    "city": "Blagoevgrad",
+    "date": "2021-06-11"
   },
   {
     "maxTemperature": 21,
     "minTemperature": -6,
-    "sunrise": "06:14:29",
-    "sunset": "20:35:53",
-    "city": "Sandanski"
+    "city": "Sandanski",
+    "date": "2020-02-28"
   },
   {
     "maxTemperature": 29,
     "minTemperature": -2,
-    "sunrise": "06:20:53",
-    "sunset": "22:39:33",
-    "city": "Petrich"
+    "city": "Petrich",
+    "date": "2023-09-27"
   },
   {
     "maxTemperature": 36,
     "minTemperature": 1,
-    "sunrise": "06:38:55",
-    "sunset": "22:16:04",
-    "city": "Chirpan"
+    "city": "Chirpan",
+    "date": "2024-11-22"
   },
   {
     "maxTemperature": 25,
     "minTemperature": 0,
-    "sunrise": "05:48:07",
-    "sunset": "21:30:08",
-    "city": "Haskovo"
+    "city": "Haskovo",
+    "date": "2021-07-09"
   },
   {
     "maxTemperature": 31,
     "minTemperature": -3,
-    "sunrise": "06:05:35",
-    "sunset": "21:29:02",
-    "city": "Svilengrad"
+    "city": "Svilengrad",
+    "date": "2022-05-20"
   },
   {
     "maxTemperature": 33,
     "minTemperature": -10,
-    "sunrise": "06:13:28",
-    "sunset": "21:02:24",
-    "city": "Varna"
+    "city": "Varna",
+    "date": "2020-04-07"
   },
   {
     "maxTemperature": 6,
     "minTemperature": -2,
-    "sunrise": "07:24:52",
-    "sunset": "21:52:18",
-    "city": "Nesebur"
+    "city": "Nesebur",
+    "date": "2023-03-30"
   },
   {
     "maxTemperature": 32,
     "minTemperature": 3,
-    "sunrise": "06:46:17",
-    "sunset": "21:05:20",
-    "city": "Slivnica"
+    "city": "Slivnica",
+    "date": "2021-12-01"
   },
   {
     "maxTemperature": 8,
     "minTemperature": -3,
-    "sunrise": "06:27:09",
-    "sunset": "22:09:35",
-    "city": "Dragoman"
+    "city": "Dragoman",
+    "date": "2024-07-13"
   },
   {
     "maxTemperature": 19,
     "minTemperature": 1,
-    "sunrise": "06:09:40",
-    "sunset": "21:59:51",
-    "city": "Vidin"
+    "city": "Vidin",
+    "date": "2020-08-04"
   },
   {
     "maxTemperature": 6,
     "minTemperature": -10,
-    "sunrise": "06:49:00",
-    "sunset": "22:00:10",
-    "city": "Montana"
+    "city": "Montana",
+    "date": "2022-09-28"
   },
   {
     "maxTemperature": 34,
     "minTemperature": -2,
-    "sunrise": "07:28:27",
-    "sunset": "22:33:55",
-    "city": "Vratsa"
+    "city": "Vratsa",
+    "date": "2023-05-17"
   },
   {
     "maxTemperature": 33,
     "minTemperature": 3,
-    "sunrise": "06:54:11",
-    "sunset": "21:54:08",
-    "city": "Kulata"
+    "city": "Kulata",
+    "date": "2021-03-02"
   },
   {
     "maxTemperature": 30,
     "minTemperature": 3,
-    "sunrise": "06:56:33",
-    "sunset": "20:39:53",
-    "city": "Ruse"
+    "city": "Ruse",
+    "date": "2024-02-05"
   },
   {
     "maxTemperature": 10,
     "minTemperature": 3,
-    "sunrise": "07:15:21",
-    "sunset": "21:23:03",
-    "city": "Razgrad"
+    "city": "Razgrad",
+    "date": "2020-11-19"
   },
   {
     "maxTemperature": 23,
     "minTemperature": 1,
-    "sunrise": "07:26:51",
-    "sunset": "20:27:03",
-    "city": "Byala"
+    "city": "Byala",
+    "date": "2022-06-01"
   },
   {
     "maxTemperature": 17,
     "minTemperature": -9,
-    "sunrise": "07:15:48",
-    "sunset": "22:12:54",
-    "city": "Turgovishte"
+    "city": "Turgovishte",
+    "date": "2024-10-21"
   },
   {
     "maxTemperature": 27,
     "minTemperature": -8,
-    "sunrise": "05:48:47",
-    "sunset": "20:40:32",
-    "city": "Gabrovo"
+    "city": "Gabrovo",
+    "date": "2020-05-11"
   },
   {
     "maxTemperature": 8,
     "minTemperature": -7,
-    "sunrise": "06:45:58",
-    "sunset": "22:13:59",
-    "city": "Shipka"
+    "city": "Shipka",
+    "date": "2023-06-15"
   },
   {
     "maxTemperature": 6,
     "minTemperature": -10,
-    "sunrise": "06:23:14",
-    "sunset": "21:52:17",
-    "city": "Kazanlak"
+    "city": "Kazanlak",
+    "date": "2022-08-09"
   },
   {
     "maxTemperature": 29,
     "minTemperature": 1,
-    "sunrise": "07:04:17",
-    "sunset": "20:58:34",
-    "city": "Kardzhali"
+    "city": "Kardzhali",
+    "date": "2024-01-12"
   },
   {
     "maxTemperature": 9,
     "minTemperature": 2,
-    "sunrise": "07:10:10",
-    "sunset": "20:30:03",
-    "city": "Momchilgrad"
+    "city": "Momchilgrad",
+    "date": "2021-10-06"
   },
   {
     "maxTemperature": 22,
     "minTemperature": -4,
-    "sunrise": "07:09:32",
-    "sunset": "20:37:34",
-    "city": "Makaza"
+    "city": "Makaza",
+    "date": "2023-07-24"
   },
   {
     "maxTemperature": 22,
     "minTemperature": -2,
-    "sunrise": "05:28:08",
-    "sunset": "21:10:53",
-    "city": "Gyueshevo"
+    "city": "Gyueshevo",
+    "date": "2020-04-14"
   },
   {
     "maxTemperature": 26,
     "minTemperature": 2,
-    "sunrise": "05:34:52",
-    "sunset": "21:29:25",
-    "city": "Kyustendil"
+    "city": "Kyustendil",
+    "date": "2021-12-18"
   },
   {
     "maxTemperature": 21,
     "minTemperature": 0,
-    "sunrise": "06:12:36",
-    "sunset": "21:03:22",
-    "city": "Karlovo"
+    "city": "Karlovo",
+    "date": "2024-08-29"
   },
   {
     "maxTemperature": 10,
     "minTemperature": -1,
-    "sunrise": "05:47:06",
-    "sunset": "21:47:09",
-    "city": "Kalofer"
+    "city": "Kalofer",
+    "date": "2022-03-10"
   },
   {
     "maxTemperature": 20,
     "minTemperature": -2,
-    "sunrise": "05:43:57",
-    "sunset": "21:47:36",
-    "city": "Sliven"
+    "city": "Sliven",
+    "date": "2023-09-08"
   },
   {
     "maxTemperature": 7,
     "minTemperature": -4,
-    "sunrise": "06:18:34",
-    "sunset": "20:54:45",
-    "city": "Karnobat"
+    "city": "Karnobat",
+    "date": "2020-07-01"
   },
   {
     "maxTemperature": 23,
     "minTemperature": -5,
-    "sunrise": "06:36:23",
-    "sunset": "22:33:49",
-    "city": "Silistra"
+    "city": "Silistra",
+    "date": "2024-11-03"
   },
   {
     "maxTemperature": 17,
     "minTemperature": -2,
-    "sunrise": "05:59:46",
-    "sunset": "21:53:36",
-    "city": "Lesovo"
+    "city": "Lesovo",
+    "date": "2021-08-26"
   },
   {
     "maxTemperature": 33,
     "minTemperature": 4,
-    "sunrise": "05:25:33",
-    "sunset": "22:02:17",
-    "city": "Ihtiman"
+    "city": "Ihtiman",
+    "date": "2023-04-27"
   },
   {
     "maxTemperature": 18,
     "minTemperature": -4,
-    "sunrise": "05:57:26",
-    "sunset": "22:00:18",
-    "city": "Kostenets"
+    "city": "Kostenets",
+    "date": "2020-01-16"
   },
   {
     "maxTemperature": 34,
     "minTemperature": -9,
-    "sunrise": "06:49:42",
-    "sunset": "21:07:52",
-    "city": "Belovo"
+    "city": "Belovo",
+    "date": "2022-10-25"
   },
   {
     "maxTemperature": 22,
     "minTemperature": 2,
-    "sunrise": "07:09:43",
-    "sunset": "20:48:02",
-    "city": "Harmanli"
+    "city": "Harmanli",
+    "date": "2024-06-05"
   },
   {
     "maxTemperature": 15,
     "minTemperature": 1,
-    "sunrise": "06:35:20",
-    "sunset": "22:14:01",
-    "city": "Lyubimets"
+    "city": "Lyubimets",
+    "date": "2021-02-22"
   },
   {
     "maxTemperature": 24,
     "minTemperature": -8,
-    "sunrise": "05:53:16",
-    "sunset": "21:41:13",
-    "city": "Durankulak"
-  },
-  {
-    "maxTemperature": 28,
-    "minTemperature": 4,
-    "sunrise": "06:53:46",
-    "sunset": "22:02:49",
-    "city": "Shabla"
-  },
-  {
-    "maxTemperature": 23,
-    "minTemperature": -7,
-    "sunrise": "05:35:43",
-    "sunset": "21:50:26",
-    "city": "Kavarna"
-  },
-  {
-    "maxTemperature": 26,
-    "minTemperature": 4,
-    "sunrise": "06:28:24",
-    "sunset": "20:52:34",
-    "city": "Zlatni pqsuci"
-  },
-  {
-    "maxTemperature": 17,
-    "minTemperature": -8,
-    "sunrise": "06:41:50",
-    "sunset": "22:44:17",
-    "city": "Obzor"
-  },
-  {
-    "maxTemperature": 11,
-    "minTemperature": -6,
-    "sunrise": "06:10:36",
-    "sunset": "22:32:47",
-    "city": "Sofia"
-  },
-  {
-    "maxTemperature": 18,
-    "minTemperature": -2,
-    "sunrise": "05:58:59",
-    "sunset": "22:06:25",
-    "city": "Pazardzhik"
-  },
-  {
-    "maxTemperature": 12,
-    "minTemperature": 3,
-    "sunrise": "06:31:16",
-    "sunset": "20:34:47",
-    "city": "Plovdiv"
-  },
-  {
-    "maxTemperature": 18,
-    "minTemperature": -4,
-    "sunrise": "06:02:21",
-    "sunset": "21:19:34",
-    "city": "Stara Zagora"
-  },
-  {
-    "maxTemperature": 11,
-    "minTemperature": -10,
-    "sunrise": "07:15:59",
-    "sunset": "20:57:59",
-    "city": "Yambol"
-  },
-  {
-    "maxTemperature": 16,
-    "minTemperature": -2,
-    "sunrise": "05:31:36",
-    "sunset": "22:19:59",
-    "city": "Burgas"
-  },
-  {
-    "maxTemperature": 8,
-    "minTemperature": 1,
-    "sunrise": "06:39:36",
-    "sunset": "21:43:24",
-    "city": "Botevgrad"
-  },
-  {
-    "maxTemperature": 10,
-    "minTemperature": 1,
-    "sunrise": "06:25:39",
-    "sunset": "21:00:02",
-    "city": "Pleven"
-  },
-  {
-    "maxTemperature": 12,
-    "minTemperature": -4,
-    "sunrise": "06:50:25",
-    "sunset": "20:39:52",
-    "city": "Veliko Tarnovo"
-  },
-  {
-    "maxTemperature": 23,
-    "minTemperature": -8,
-    "sunrise": "06:28:52",
-    "sunset": "22:08:45",
-    "city": "Shumen"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": -3,
-    "sunrise": "05:33:25",
-    "sunset": "21:24:50",
-    "city": "Pernik"
-  },
-  {
-    "maxTemperature": 26,
-    "minTemperature": 4,
-    "sunrise": "06:06:55",
-    "sunset": "22:48:24",
-    "city": "Dupnitsa"
-  },
-  {
-    "maxTemperature": 15,
-    "minTemperature": 3,
-    "sunrise": "06:59:40",
-    "sunset": "20:38:46",
-    "city": "Blagoevgrad"
-  },
-  {
-    "maxTemperature": 27,
-    "minTemperature": 4,
-    "sunrise": "07:29:31",
-    "sunset": "22:47:12",
-    "city": "Sandanski"
-  },
-  {
-    "maxTemperature": 35,
-    "minTemperature": -5,
-    "sunrise": "07:28:55",
-    "sunset": "22:32:19",
-    "city": "Petrich"
-  },
-  {
-    "maxTemperature": 34,
-    "minTemperature": -9,
-    "sunrise": "06:44:41",
-    "sunset": "22:38:37",
-    "city": "Chirpan"
-  },
-  {
-    "maxTemperature": 17,
-    "minTemperature": -9,
-    "sunrise": "05:27:24",
-    "sunset": "21:19:58",
-    "city": "Haskovo"
-  },
-  {
-    "maxTemperature": 24,
-    "minTemperature": 2,
-    "sunrise": "06:54:10",
-    "sunset": "21:59:53",
-    "city": "Svilengrad"
-  },
-  {
-    "maxTemperature": 31,
-    "minTemperature": -7,
-    "sunrise": "07:04:17",
-    "sunset": "20:20:50",
-    "city": "Varna"
-  },
-  {
-    "maxTemperature": 29,
-    "minTemperature": -1,
-    "sunrise": "07:08:29",
-    "sunset": "21:50:15",
-    "city": "Nesebur"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": -7,
-    "sunrise": "07:17:02",
-    "sunset": "22:06:56",
-    "city": "Slivnica"
-  },
-  {
-    "maxTemperature": 29,
-    "minTemperature": -7,
-    "sunrise": "06:35:40",
-    "sunset": "21:05:18",
-    "city": "Dragoman"
-  },
-  {
-    "maxTemperature": 32,
-    "minTemperature": -9,
-    "sunrise": "06:09:27",
-    "sunset": "22:14:04",
-    "city": "Vidin"
-  },
-  {
-    "maxTemperature": 10,
-    "minTemperature": 1,
-    "sunrise": "05:39:35",
-    "sunset": "22:12:54",
-    "city": "Montana"
-  },
-  {
-    "maxTemperature": 12,
-    "minTemperature": -8,
-    "sunrise": "06:34:29",
-    "sunset": "20:31:21",
-    "city": "Vratsa"
-  },
-  {
-    "maxTemperature": 22,
-    "minTemperature": 0,
-    "sunrise": "05:40:54",
-    "sunset": "22:46:02",
-    "city": "Kulata"
-  },
-  {
-    "maxTemperature": 28,
-    "minTemperature": -4,
-    "sunrise": "07:18:58",
-    "sunset": "21:08:57",
-    "city": "Ruse"
-  },
-  {
-    "maxTemperature": 36,
-    "minTemperature": 3,
-    "sunrise": "05:41:39",
-    "sunset": "22:20:20",
-    "city": "Razgrad"
-  },
-  {
-    "maxTemperature": 34,
-    "minTemperature": -7,
-    "sunrise": "07:14:47",
-    "sunset": "20:36:06",
-    "city": "Byala"
-  },
-  {
-    "maxTemperature": 8,
-    "minTemperature": 0,
-    "sunrise": "07:25:16",
-    "sunset": "21:27:28",
-    "city": "Turgovishte"
-  },
-  {
-    "maxTemperature": 15,
-    "minTemperature": -4,
-    "sunrise": "05:32:56",
-    "sunset": "22:06:46",
-    "city": "Gabrovo"
-  },
-  {
-    "maxTemperature": 14,
-    "minTemperature": -1,
-    "sunrise": "06:53:58",
-    "sunset": "21:25:55",
-    "city": "Shipka"
-  },
-  {
-    "maxTemperature": 31,
-    "minTemperature": 3,
-    "sunrise": "06:50:53",
-    "sunset": "22:47:52",
-    "city": "Kazanlak"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": 1,
-    "sunrise": "07:02:14",
-    "sunset": "22:37:08",
-    "city": "Kardzhali"
-  },
-  {
-    "maxTemperature": 18,
-    "minTemperature": -5,
-    "sunrise": "06:56:05",
-    "sunset": "21:01:34",
-    "city": "Momchilgrad"
-  },
-  {
-    "maxTemperature": 28,
-    "minTemperature": -7,
-    "sunrise": "06:33:36",
-    "sunset": "21:22:49",
-    "city": "Makaza"
-  },
-  {
-    "maxTemperature": 17,
-    "minTemperature": -3,
-    "sunrise": "07:21:43",
-    "sunset": "21:36:21",
-    "city": "Gyueshevo"
+    "city": "Durankulak",
+    "date": "2023-10-12"
   },
   {
     "maxTemperature": 7,
-    "minTemperature": -10,
-    "sunrise": "06:00:32",
-    "sunset": "22:18:17",
-    "city": "Kyustendil"
-  },
-  {
-    "maxTemperature": 31,
     "minTemperature": 2,
-    "sunrise": "05:51:27",
-    "sunset": "20:32:31",
-    "city": "Karlovo"
-  },
-  {
-    "maxTemperature": 23,
-    "minTemperature": -5,
-    "sunrise": "05:28:41",
-    "sunset": "22:12:45",
-    "city": "Kalofer"
-  },
-  {
-    "maxTemperature": 26,
-    "minTemperature": 1,
-    "sunrise": "05:33:40",
-    "sunset": "20:21:52",
-    "city": "Sliven"
-  },
-  {
-    "maxTemperature": 13,
-    "minTemperature": -1,
-    "sunrise": "05:59:35",
-    "sunset": "20:34:33",
-    "city": "Karnobat"
-  },
-  {
-    "maxTemperature": 19,
-    "minTemperature": -10,
-    "sunrise": "07:26:20",
-    "sunset": "22:14:40",
-    "city": "Silistra"
-  },
-  {
-    "maxTemperature": 27,
-    "minTemperature": 1,
-    "sunrise": "06:42:08",
-    "sunset": "22:36:10",
-    "city": "Lesovo"
-  },
-  {
-    "maxTemperature": 20,
-    "minTemperature": -9,
-    "sunrise": "06:55:07",
-    "sunset": "22:45:01",
-    "city": "Ihtiman"
+    "city": "Tyulenovo",
+    "date": "2020-12-29"
   },
   {
     "maxTemperature": 30,
-    "minTemperature": 2,
-    "sunrise": "05:49:03",
-    "sunset": "21:18:55",
-    "city": "Kostenets"
-  },
-  {
-    "maxTemperature": 12,
-    "minTemperature": 0,
-    "sunrise": "07:16:11",
-    "sunset": "22:43:49",
-    "city": "Belovo"
-  },
-  {
-    "maxTemperature": 22,
-    "minTemperature": -3,
-    "sunrise": "06:29:49",
-    "sunset": "21:53:08",
-    "city": "Harmanli"
-  },
-  {
-    "maxTemperature": 36,
-    "minTemperature": -10,
-    "sunrise": "06:57:59",
-    "sunset": "22:06:05",
-    "city": "Lyubimets"
-  },
-  {
-    "maxTemperature": 19,
-    "minTemperature": -2,
-    "sunrise": "07:26:57",
-    "sunset": "22:08:18",
-    "city": "Durankulak"
-  },
-  {
-    "maxTemperature": 6,
-    "minTemperature": 1,
-    "sunrise": "05:58:12",
-    "sunset": "21:21:40",
-    "city": "Shabla"
-  },
-  {
-    "maxTemperature": 8,
-    "minTemperature": -10,
-    "sunrise": "07:25:52",
-    "sunset": "22:05:39",
-    "city": "Kavarna"
-  },
-  {
-    "maxTemperature": 28,
     "minTemperature": -9,
-    "sunrise": "06:33:42",
-    "sunset": "20:23:08",
-    "city": "Zlatni pqsuci"
-  },
-  {
-    "maxTemperature": 18,
-    "minTemperature": -8,
-    "sunrise": "06:21:47",
-    "sunset": "20:45:26",
-    "city": "Obzor"
-  },
-  {
-    "maxTemperature": 34,
-    "minTemperature": -6,
-    "sunrise": "05:43:17",
-    "sunset": "20:28:31",
-    "city": "Sofia"
-  },
-  {
-    "maxTemperature": 29,
-    "minTemperature": -9,
-    "sunrise": "06:39:17",
-    "sunset": "21:35:59",
-    "city": "Pazardzhik"
-  },
-  {
-    "maxTemperature": 15,
-    "minTemperature": -6,
-    "sunrise": "06:49:02",
-    "sunset": "21:16:08",
-    "city": "Plovdiv"
-  },
-  {
-    "maxTemperature": 27,
-    "minTemperature": -10,
-    "sunrise": "06:59:32",
-    "sunset": "22:41:09",
-    "city": "Stara Zagora"
-  },
-  {
-    "maxTemperature": 26,
-    "minTemperature": -2,
-    "sunrise": "06:44:12",
-    "sunset": "20:27:36",
-    "city": "Yambol"
-  },
-  {
-    "maxTemperature": 26,
-    "minTemperature": 2,
-    "sunrise": "07:00:00",
-    "sunset": "21:40:02",
-    "city": "Burgas"
-  },
-  {
-    "maxTemperature": 19,
-    "minTemperature": -3,
-    "sunrise": "06:58:22",
-    "sunset": "20:58:13",
-    "city": "Botevgrad"
+    "city": "Balchik",
+    "date": "2022-05-03"
   },
   {
     "maxTemperature": 11,
-    "minTemperature": -9,
-    "sunrise": "06:40:52",
-    "sunset": "21:34:28",
-    "city": "Pleven"
-  },
-  {
-    "maxTemperature": 15,
-    "minTemperature": 1,
-    "sunrise": "06:57:08",
-    "sunset": "21:15:30",
-    "city": "Veliko Tarnovo"
-  },
-  {
-    "maxTemperature": 26,
-    "minTemperature": -5,
-    "sunrise": "05:25:14",
-    "sunset": "20:32:34",
-    "city": "Shumen"
-  },
-  {
-    "maxTemperature": 16,
-    "minTemperature": 0,
-    "sunrise": "05:49:21",
-    "sunset": "22:16:50",
-    "city": "Pernik"
-  },
-  {
-    "maxTemperature": 7,
-    "minTemperature": -4,
-    "sunrise": "07:24:55",
-    "sunset": "22:32:25",
-    "city": "Dupnitsa"
-  },
-  {
-    "maxTemperature": 32,
-    "minTemperature": -2,
-    "sunrise": "07:15:36",
-    "sunset": "22:10:40",
-    "city": "Blagoevgrad"
-  },
-  {
-    "maxTemperature": 22,
-    "minTemperature": -1,
-    "sunrise": "05:49:32",
-    "sunset": "20:30:00",
-    "city": "Sandanski"
-  },
-  {
-    "maxTemperature": 28,
-    "minTemperature": -1,
-    "sunrise": "05:36:59",
-    "sunset": "20:46:13",
-    "city": "Petrich"
-  },
-  {
-    "maxTemperature": 6,
-    "minTemperature": 0,
-    "sunrise": "05:56:47",
-    "sunset": "21:23:00",
-    "city": "Chirpan"
-  },
-  {
-    "maxTemperature": 21,
-    "minTemperature": 2,
-    "sunrise": "06:13:32",
-    "sunset": "22:11:11",
-    "city": "Haskovo"
-  },
-  {
-    "maxTemperature": 15,
-    "minTemperature": -5,
-    "sunrise": "07:15:54",
-    "sunset": "22:42:43",
-    "city": "Svilengrad"
-  },
-  {
-    "maxTemperature": 13,
-    "minTemperature": -9,
-    "sunrise": "07:06:00",
-    "sunset": "22:24:02",
-    "city": "Varna"
-  },
-  {
-    "maxTemperature": 36,
-    "minTemperature": -10,
-    "sunrise": "06:38:03",
-    "sunset": "21:33:11",
-    "city": "Nesebur"
-  },
-  {
-    "maxTemperature": 18,
-    "minTemperature": -5,
-    "sunrise": "05:28:59",
-    "sunset": "20:52:30",
-    "city": "Slivnica"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": 0,
-    "sunrise": "06:44:42",
-    "sunset": "22:29:58",
-    "city": "Dragoman"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": 1,
-    "sunrise": "06:02:11",
-    "sunset": "22:07:24",
-    "city": "Vidin"
-  },
-  {
-    "maxTemperature": 18,
-    "minTemperature": -2,
-    "sunrise": "06:31:03",
-    "sunset": "22:08:07",
-    "city": "Montana"
-  },
-  {
-    "maxTemperature": 20,
-    "minTemperature": 3,
-    "sunrise": "05:31:04",
-    "sunset": "21:59:00",
-    "city": "Vratsa"
-  },
-  {
-    "maxTemperature": 22,
-    "minTemperature": -8,
-    "sunrise": "07:22:18",
-    "sunset": "21:55:27",
-    "city": "Kulata"
-  },
-  {
-    "maxTemperature": 22,
-    "minTemperature": -1,
-    "sunrise": "07:23:33",
-    "sunset": "21:21:00",
-    "city": "Ruse"
-  },
-  {
-    "maxTemperature": 12,
-    "minTemperature": -2,
-    "sunrise": "07:02:02",
-    "sunset": "21:04:07",
-    "city": "Razgrad"
-  },
-  {
-    "maxTemperature": 8,
-    "minTemperature": 2,
-    "sunrise": "07:21:09",
-    "sunset": "22:43:06",
-    "city": "Byala"
-  },
-  {
-    "maxTemperature": 25,
-    "minTemperature": -4,
-    "sunrise": "05:34:07",
-    "sunset": "21:27:12",
-    "city": "Turgovishte"
-  },
-  {
-    "maxTemperature": 17,
-    "minTemperature": -3,
-    "sunrise": "05:29:29",
-    "sunset": "22:38:48",
-    "city": "Gabrovo"
-  },
-  {
-    "maxTemperature": 17,
-    "minTemperature": -9,
-    "sunrise": "07:02:22",
-    "sunset": "20:59:36",
-    "city": "Shipka"
-  },
-  {
-    "maxTemperature": 25,
-    "minTemperature": -2,
-    "sunrise": "06:24:07",
-    "sunset": "22:12:55",
-    "city": "Kazanlak"
-  },
-  {
-    "maxTemperature": 35,
-    "minTemperature": -1,
-    "sunrise": "06:49:28",
-    "sunset": "20:32:34",
-    "city": "Kardzhali"
-  },
-  {
-    "maxTemperature": 8,
-    "minTemperature": 0,
-    "sunrise": "06:17:47",
-    "sunset": "21:49:54",
-    "city": "Momchilgrad"
-  },
-  {
-    "maxTemperature": 35,
-    "minTemperature": -6,
-    "sunrise": "06:39:44",
-    "sunset": "21:55:46",
-    "city": "Makaza"
-  },
-  {
-    "maxTemperature": 32,
-    "minTemperature": -9,
-    "sunrise": "07:07:15",
-    "sunset": "20:22:48",
-    "city": "Gyueshevo"
-  },
-  {
-    "maxTemperature": 15,
-    "minTemperature": -4,
-    "sunrise": "06:36:44",
-    "sunset": "22:02:17",
-    "city": "Kyustendil"
-  },
-  {
-    "maxTemperature": 9,
-    "minTemperature": -9,
-    "sunrise": "05:56:01",
-    "sunset": "20:41:49",
-    "city": "Karlovo"
-  },
-  {
-    "maxTemperature": 21,
-    "minTemperature": 2,
-    "sunrise": "06:41:44",
-    "sunset": "20:39:57",
-    "city": "Kalofer"
-  },
-  {
-    "maxTemperature": 26,
     "minTemperature": -7,
-    "sunrise": "05:28:23",
-    "sunset": "22:03:54",
-    "city": "Sliven"
-  },
-  {
-    "maxTemperature": 22,
-    "minTemperature": -8,
-    "sunrise": "06:34:02",
-    "sunset": "20:27:06",
-    "city": "Karnobat"
-  },
-  {
-    "maxTemperature": 17,
-    "minTemperature": -8,
-    "sunrise": "07:24:44",
-    "sunset": "22:06:52",
-    "city": "Silistra"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": 2,
-    "sunrise": "05:40:23",
-    "sunset": "20:46:24",
-    "city": "Lesovo"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": -9,
-    "sunrise": "05:56:58",
-    "sunset": "20:49:26",
-    "city": "Ihtiman"
-  },
-  {
-    "maxTemperature": 19,
-    "minTemperature": 0,
-    "sunrise": "06:22:41",
-    "sunset": "22:16:37",
-    "city": "Kostenets"
-  },
-  {
-    "maxTemperature": 14,
-    "minTemperature": -7,
-    "sunrise": "05:31:32",
-    "sunset": "21:37:05",
-    "city": "Belovo"
-  },
-  {
-    "maxTemperature": 24,
-    "minTemperature": -4,
-    "sunrise": "05:41:11",
-    "sunset": "20:28:01",
-    "city": "Harmanli"
-  },
-  {
-    "maxTemperature": 32,
-    "minTemperature": 2,
-    "sunrise": "07:19:34",
-    "sunset": "21:59:00",
-    "city": "Lyubimets"
-  },
-  {
-    "maxTemperature": 24,
-    "minTemperature": 3,
-    "sunrise": "06:47:17",
-    "sunset": "22:07:34",
-    "city": "Durankulak"
-  },
-  {
-    "maxTemperature": 30,
-    "minTemperature": -2,
-    "sunrise": "06:46:48",
-    "sunset": "21:10:45",
-    "city": "Shabla"
-  },
-  {
-    "maxTemperature": 33,
-    "minTemperature": -3,
-    "sunrise": "06:22:21",
-    "sunset": "22:17:12",
-    "city": "Kavarna"
+    "city": "Kavarna",
+    "date": "2024-09-11"
   },
   {
     "maxTemperature": 27,
-    "minTemperature": 2,
-    "sunrise": "07:06:56",
-    "sunset": "21:46:31",
-    "city": "Zlatni pqsuci"
-  },
-  {
-    "maxTemperature": 28,
-    "minTemperature": -9,
-    "sunrise": "06:54:30",
-    "sunset": "22:21:13",
-    "city": "Obzor"
+    "minTemperature": -5,
+    "city": "Dobrich",
+    "date": "2021-03-15"
   }
 ]

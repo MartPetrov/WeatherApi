@@ -6,6 +6,8 @@ import org.springframework.web.bind.annotation.*;
 import project.entity.DTO.ImportForecastDTO;
 import project.service.ForecastService;
 
+import java.util.Date;
+
 @RestController
 public class WeatherController {
 
@@ -18,7 +20,8 @@ public class WeatherController {
 
     @GetMapping("/forecast")
     public String getForecast(@RequestParam String city) {
-        String forecastByCity = forecastService.findForecastByCity(city);
+        Date date = new Date();
+        String forecastByCity = forecastService.findForecastByCityAndDate(city, date);
         return forecastByCity;
     }
     //    http://localhost:8081/findForecastsByCity?city=Plovdiv
@@ -26,10 +29,7 @@ public class WeatherController {
     @PostMapping("/forecast-add")
     public String addForecast(@RequestParam String city,@RequestParam Double minTemperature,@RequestParam Double maxTemperature) {
         ImportForecastDTO importForecastDTO = new ImportForecastDTO();
-        importForecastDTO.setCity(city);
-        importForecastDTO.setMinTemperature(minTemperature);
-        importForecastDTO.setMaxTemperature(maxTemperature);
-
+        importForecastDTO
         forecastService.addForecastRest(importForecastDTO);
         return importForecastDTO.toString();
     }

@@ -2,9 +2,9 @@ package project.service;
 
 
 import project.entity.DTO.ImportForecastDTO;
-import project.entity.Forecast;
 
 import java.io.IOException;
+import java.util.Date;
 
 public interface ForecastService {
     boolean areImported();
@@ -15,7 +15,7 @@ public interface ForecastService {
 
     String importForecast(ImportForecastDTO importForecastDTO);
 
-    String findForecastByCity(String city);
+    String findForecastByCityAndDate(String city, Date date);
 
     void addForecastRest(ImportForecastDTO importForecastDTO);
 
